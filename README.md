@@ -1,0 +1,1 @@
+[![vvaas's 42 stats](https://badge42.coday.fr/api/v2/clqqpi8l0056601p489tvkhxm/stats?cursusId=21&coalitionId=219)](https://github.com/Coday-meric/badge42)
