@@ -7,7 +7,7 @@ Passionate about sys administration & low-level computing
 Student at 42 Angoulême, i'm currently an intern at Groupe Landreau.
 
 * 🌍  I'm based in France/Angoulême
-* ✉️  You can contact me at [vvaas@student.42angouleme.fr](mailto: vvaas@student.42angouleme.fr)
+* ✉️  You can contact me at [vvaas@student.42angouleme.fr](vvaas@student.42angouleme.fr)
 * 🚀  I'm currently working on [low-level networking projects](http://github.com/Namonay/ft_ping)
 * 🧠  I'm learning Docker, O365 administration & Powershell scripting
 
